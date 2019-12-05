@@ -9,7 +9,8 @@ footer {
     border-style: solid none none none;
     border-color: #4aaaa5;
     border-width: 5px;
-    left:-20px;
+    left: -10px;
+    margin-right: -10px;
 
 }
 
@@ -45,7 +46,7 @@ h2 {
 #bacon {
     float:left;
     top: 30px;
-    width: 10%;
+    width: 50%;
     left: -30px;
 }
 
@@ -62,11 +63,20 @@ h2 {
     width: 960px;
     /* left:190px; */
     top: 30px;
-    margin: auto;
+    margin-left: 50px;
     border-style: solid;
     border-width: 1px;
     border-color: grey;
     right: -100px;
+    line-height: 1.8;
+}
+
+#subbutton {
+    width: 920px;
+    background: gray;
+    color: black;
+    margin-top: 10px;
+    margin-right: 5px;
 }
 
 a {
@@ -104,7 +114,7 @@ a {
     width: 920px;
     left: 180px;
     top: 130px;
-    margin: auto;
+    /* margin: auto; */
     border-style: solid;
     border-width: 1px;
     border-color: grey;
@@ -115,4 +125,16 @@ a {
     border-style: none solid none none;
     border-width: 1px;
     border-color:lightgray;
+}
+
+#portfoliopic {
+    height: 100px;
+    width: 100px;
+    position: fixed;
+}
+
+#portfoliopic2 {
+    height: 100px;
+    width: 100px;
+    postion: relative;
 }
