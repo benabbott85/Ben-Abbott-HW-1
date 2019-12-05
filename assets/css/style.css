@@ -134,6 +134,8 @@ a {
     padding-bottom: 20px;
     padding-right: 10px;
     position: absolute;
+    left: 55px;
+    top: 90px;
 }
 
 #portfoliopic2 {
@@ -142,7 +144,7 @@ a {
     padding-bottom: 20px;
     position: absolute;
     top: 90px;
-    left:200px;
+    left:220px;
 }
 
 #portfoliopic3 {
@@ -152,7 +154,8 @@ a {
     padding-right: 10px;
     position: absolute;
     bottom: 20px;
-    top: 250px;
+    top: 90px;
+    right: 250px;
 
 }
 
@@ -161,19 +164,27 @@ a {
     width: 150px;
     padding-bottom: 20px;
     position: absolute;
-    top: 250px;
-    left: 200px;
+    top: 90px;
+    right: 100px;
 }
 
 #portfoliopic5 {
     height: 150px;
     width: 150px;
     padding-bottom: 20px;
-    position:absolute;
+    position: absolute;
+    top: 90px;
+    right: 425px;
 }
+
 
 #wrapper {
     float: left;
     postion: relative;
-
 }
+
+
+
+
+
+
