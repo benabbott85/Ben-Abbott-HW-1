@@ -128,38 +128,49 @@ a {
 }
 
 #portfoliopic {
-    height: 350px;
-    width: 350px;
+    height: 200px;
+    width: 200px;
     float: left;
     padding-bottom: 20px;
     padding-right: 10px;
+    position: absolute;
 }
 
 #portfoliopic2 {
-    height: 350px;
-    width: 350px;
-    float: left;
+    height: 200px;
+    width: 200px;
     padding-bottom: 20px;
+    position: absolute;
+    top: 90px;
+    left:360px;
 }
 
 #portfoliopic3 {
-    height:350px;
-    width: 350px;
-    float: left;
+    height:200px;
+    width: 200px;
     padding-bottom: 20px;
     padding-right: 10px;
+    position: absolute;
 }
 
 #portfoliopic4 {
-    height: 350px;
-    width: 350px;
-    float: left;
+    height: 200px;
+    width: 200px;
     padding-bottom: 20px;
+    position: absolute;
+    top: 300px;
+    left: 360px;
 }
 
 #portfoliopic5 {
-    height: 350px;
-    width: 350px;
-    float: left;
+    height: 200px;
+    width: 200px;
     padding-bottom: 20px;
+    position:absolute;
+}
+
+#wrapper {
+    float: left;
+    postion: relative;
+
 }
