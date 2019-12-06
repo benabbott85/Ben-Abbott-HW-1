@@ -10,7 +10,7 @@ footer {
     text-align: center;
     position: fixed;
     bottom: 0;
-    width: calc(100 / 3);
+    width: calc (100% / 3);
     height: 30px;
     border-style: solid none none none;
     border-color: #4aaaa5;
